@@ -1,2 +1,3 @@
 # ChordApps
-Aplikasi untuk mencari kunci gItar dalam sebuah lagu
+
+Aplikasi untuk mencari kunci gItar dalam sebuah lagu berbasis Android
