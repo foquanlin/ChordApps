@@ -1,3 +1,3 @@
 # ChordApps
 
-Aplikasi untuk mencari kunci gitar sebuah lagu berbasis Android.
+Aplikasi untuk mencari chord gitar sebuah lagu berbasis Android.
